@@ -21,13 +21,13 @@ Para instalar o React Router em um projeto React com TypeScript e Vite:
 
 ```bash
 # Usando npm
-npm install react-router-dom
+npm install react-router
 
 # Usando yarn
-yarn add react-router-dom
+yarn add react-router
 
 # Usando pnpm
-pnpm add react-router-dom
+pnpm add react-router
 ```
 
 ## 2. Configuração Básica
